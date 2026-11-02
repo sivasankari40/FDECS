@@ -1,0 +1,2 @@
+# Model files must be byte-identical on every OS: no line-ending conversion.
+models/** -text

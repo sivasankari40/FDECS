@@ -1,0 +1,24 @@
+{
+  "new_tickets": [
+    {
+      "ticket_id": "NT-1",
+      "subject": "Can't log in, password reset email never arrives",
+      "description": "A customer requested a password reset an hour ago and says the email still hasn't shown up, even after checking spam."
+    },
+    {
+      "ticket_id": "NT-2",
+      "subject": "Chart shows nothing for the revenue tab",
+      "description": "The revenue tab on the main dashboard is completely empty for this customer, no bars, no error message, just white space."
+    },
+    {
+      "ticket_id": "NT-3",
+      "subject": "Getting charged twice this month",
+      "description": "Customer's card statement shows two charges for what should be a single monthly subscription payment."
+    },
+    {
+      "ticket_id": "NT-4",
+      "subject": "Our data warehouse integration with Snowflake is failing",
+      "description": "Customer set up a new integration to sync data into their Snowflake warehouse and it's failing with an unclear connection error. This is a newer integration type we haven't seen many tickets about yet."
+    }
+  ]
+}

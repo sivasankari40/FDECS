@@ -1,0 +1,9 @@
+{
+  "default_team": "Support Triage Team",
+  "routes": [
+    {"team": "Security Team", "keywords": ["breach", "leak", "compromised", "unauthorized"]},
+    {"team": "Data Integration Team", "keywords": ["snowflake", "integration", "connector", "warehouse", "sync"]},
+    {"team": "Billing Support Team", "keywords": ["billing", "invoice", "charged", "payment", "refund"]},
+    {"team": "Identity Support Team", "keywords": ["login", "password", "sso", "mfa", "authentication"]}
+  ]
+}

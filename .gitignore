@@ -1,0 +1,14 @@
+# Local environment and secrets
+.venv/
+.env
+.streamlit/secrets.toml
+
+# Generated at runtime
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
+
+# Not part of the submission
+case-study-brief.md
+github-guide/
